@@ -17,5 +17,4 @@ export class CharactersCollection {
 
     this.data = characters.join('');
   }
-
 }
